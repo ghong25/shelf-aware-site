@@ -1,0 +1,242 @@
+[
+  {
+    "id": "to-kill-a-mockingbird",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0061935462-M.jpg",
+    "year_published": 1960,
+    "genres": ["Fiction", "Literary", "Classics"]
+  },
+  {
+    "id": "the-great-gatsby",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0743273567-M.jpg",
+    "year_published": 1925,
+    "genres": ["Fiction", "Literary", "Classics"]
+  },
+  {
+    "id": "1984",
+    "title": "1984",
+    "author": "George Orwell",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0451524934-M.jpg",
+    "year_published": 1949,
+    "genres": ["Fiction", "Sci-Fi", "Dystopian", "Classics"]
+  },
+  {
+    "id": "harry-potter-sorcerers-stone",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0439708184-M.jpg",
+    "year_published": 1997,
+    "genres": ["Fantasy", "YA", "Adventure"]
+  },
+  {
+    "id": "the-hunger-games",
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0439023521-M.jpg",
+    "year_published": 2008,
+    "genres": ["YA", "Dystopian", "Sci-Fi", "Adventure"]
+  },
+  {
+    "id": "pride-and-prejudice",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0141439513-M.jpg",
+    "year_published": 1813,
+    "genres": ["Romance", "Classics", "Literary Fiction"]
+  },
+  {
+    "id": "dune",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0441013597-M.jpg",
+    "year_published": 1965,
+    "genres": ["Sci-Fi", "Fantasy", "Adventure"]
+  },
+  {
+    "id": "the-alchemist",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0062315007-M.jpg",
+    "year_published": 1988,
+    "genres": ["Fiction", "Philosophical", "Adventure"]
+  },
+  {
+    "id": "a-brief-history-of-time",
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0553380168-M.jpg",
+    "year_published": 1988,
+    "genres": ["Nonfiction", "Science", "Physics"]
+  },
+  {
+    "id": "hitchhikers-guide",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0345391802-M.jpg",
+    "year_published": 1979,
+    "genres": ["Sci-Fi", "Comedy", "Adventure"]
+  },
+  {
+    "id": "gone-girl",
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0307588378-M.jpg",
+    "year_published": 2012,
+    "genres": ["Mystery", "Thriller", "Psychological"]
+  },
+  {
+    "id": "the-handmaids-tale",
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0385490828-M.jpg",
+    "year_published": 1985,
+    "genres": ["Fiction", "Dystopian", "Sci-Fi", "Feminist"]
+  },
+  {
+    "id": "sapiens",
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0062316095-M.jpg",
+    "year_published": 2011,
+    "genres": ["Nonfiction", "History", "Anthropology"]
+  },
+  {
+    "id": "the-road",
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0307387895-M.jpg",
+    "year_published": 2006,
+    "genres": ["Fiction", "Dystopian", "Literary"]
+  },
+  {
+    "id": "normal-people",
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/1984822184-M.jpg",
+    "year_published": 2018,
+    "genres": ["Fiction", "Literary", "Romance", "Contemporary"]
+  },
+  {
+    "id": "the-midnight-library",
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0525559477-M.jpg",
+    "year_published": 2020,
+    "genres": ["Fiction", "Fantasy", "Literary", "Contemporary"]
+  },
+  {
+    "id": "atomic-habits",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0735211299-M.jpg",
+    "year_published": 2018,
+    "genres": ["Nonfiction", "Self-Help", "Psychology"]
+  },
+  {
+    "id": "in-cold-blood",
+    "title": "In Cold Blood",
+    "author": "Truman Capote",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0679745580-M.jpg",
+    "year_published": 1966,
+    "genres": ["Nonfiction", "True Crime", "Literary Journalism"]
+  },
+  {
+    "id": "rebecca",
+    "title": "Rebecca",
+    "author": "Daphne du Maurier",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0380730405-M.jpg",
+    "year_published": 1938,
+    "genres": ["Mystery", "Gothic", "Romance", "Classics"]
+  },
+  {
+    "id": "the-kite-runner",
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/1594631931-M.jpg",
+    "year_published": 2003,
+    "genres": ["Fiction", "Literary", "Historical Fiction"]
+  },
+  {
+    "id": "lord-of-the-flies",
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0571191479-M.jpg",
+    "year_published": 1954,
+    "genres": ["Fiction", "Classics", "Literary"]
+  },
+  {
+    "id": "the-shining",
+    "title": "The Shining",
+    "author": "Stephen King",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0385121679-M.jpg",
+    "year_published": 1977,
+    "genres": ["Horror", "Thriller", "Fiction"]
+  },
+  {
+    "id": "a-song-of-ice-and-fire",
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0553573403-M.jpg",
+    "year_published": 1996,
+    "genres": ["Fantasy", "Epic Fantasy", "Adventure"]
+  },
+  {
+    "id": "the-name-of-the-wind",
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0756404746-M.jpg",
+    "year_published": 2007,
+    "genres": ["Fantasy", "Epic Fantasy", "Adventure"]
+  },
+  {
+    "id": "educated",
+    "title": "Educated",
+    "author": "Tara Westover",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0399590501-M.jpg",
+    "year_published": 2018,
+    "genres": ["Memoir", "Nonfiction", "Biography"]
+  },
+  {
+    "id": "the-color-purple",
+    "title": "The Color Purple",
+    "author": "Alice Walker",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0156028352-M.jpg",
+    "year_published": 1982,
+    "genres": ["Fiction", "Literary", "Historical Fiction"]
+  },
+  {
+    "id": "little-fires-everywhere",
+    "title": "Little Fires Everywhere",
+    "author": "Celeste Ng",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0735224293-M.jpg",
+    "year_published": 2017,
+    "genres": ["Fiction", "Literary", "Contemporary", "Mystery"]
+  },
+  {
+    "id": "the-da-vinci-code",
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0385504209-M.jpg",
+    "year_published": 2003,
+    "genres": ["Mystery", "Thriller", "Historical Fiction"]
+  },
+  {
+    "id": "outlander",
+    "title": "Outlander",
+    "author": "Diana Gabaldon",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/0440212561-M.jpg",
+    "year_published": 1991,
+    "genres": ["Romance", "Historical Fiction", "Fantasy", "Adventure"]
+  },
+  {
+    "id": "beloved",
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/1400033411-M.jpg",
+    "year_published": 1987,
+    "genres": ["Fiction", "Literary", "Historical Fiction", "Classics"]
+  }
+]
